@@ -13,9 +13,9 @@
                 <div class="logo"> <h1 class="animated infinite heartBeat ">Mera bharath</h1></div>
                 <div class="menu">
                     <a href="#">Home</a>
-                    <a href="https://images.app.goo.gl/n56PQ1LEH1dByx6MA">Gallery</a>
+                    <a href="gal.htm">Gallery</a>
                     <a href="https://www.incredibleindia.org/content/incredible-india-v2/en.html">About</a>
-                    <a href="https://images.app.goo.gl/L1Qicp2ptXakCbMc7">Contact</a>
+                    <a href="cont.htm">Contact</a>
                 </div>
             </nav>
 
@@ -25,7 +25,7 @@
                         <h1>DO COME & VISIT<span class="change_content"></span></h1>
                         <p>"India once is not enough"</p>
                         <a href="https://en.wikipedia.org/wiki/Tourism_in_India" class="btnone">learn more</a>
-                        <a href="#" class="btntwo">Signup Here</a>
+                        
                     </section>
                 </main>
         </header>
